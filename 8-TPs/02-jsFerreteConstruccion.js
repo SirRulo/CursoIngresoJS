@@ -16,3 +16,7 @@ function Materiales ()
 {
 	
 }
+
+//txtIdLargo
+//txtIdAncho
+//txtIdRadio
